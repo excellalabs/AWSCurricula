@@ -1,9 +1,3 @@
-@doguhan I am now thinking the Dec 7-9 training will be the target. If you can't make it, I will be taking good notes, compiling a list of ALL the resources I use to pass the exam, and would be happy to do brown bags or whatever to help in the future. 
-
-
-
-In case anyone is interested, this is what I learned about AWS Developer & Solution Architect certifications (there are others):
-
 ## AWS Certified Solutions Architect & Developer Overview
 
 - 2 levels, *Associate* - that means you have the needed knowledge, and some experience; or *Professional* - you are pretty expert
@@ -12,9 +6,9 @@ In case anyone is interested, this is what I learned about AWS Developer & Solut
     - *Solution Architect* - strong knowledge of *all* AWS services in order to construct the pick correctly what's best for the solution at hand. 
     - *Developer* - ability to use specific services in depth to achieve an end product. knowledge of as many services is not there but knowledge in the core services to build applications is deeper.
 
-## Curriculum 
+## Certification Curriculum 
 
-Decide to do either Solution Architect or Developer certification, and then focus on that one in the resourecs below. The developer resourecs are more fleshed out below, but the equivalent resources exist for the Solution Architect certification starting at the link below.
+Decide to do either Solution Architect or Developer (associate) certification, and then focus on that one in the resourecs below. The developer resourecs are more fleshed out below, but the equivalent resources exist for the Solution Architect certification starting at the link below.
 
 I recommend starting by reviewing the blueprint, then the Learning Path, then decide what training resources you want to consume first. That could be the starter videos and labs, or if you have enough experience, directly to the offiical training and ultimately the exam. 
 
