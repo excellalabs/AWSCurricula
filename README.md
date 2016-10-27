@@ -26,6 +26,8 @@ Resources:
 - Architect
 	- Certified Architect Overview (w/blueprint, official training & additional learning resources), https://aws.amazon.com/certification/certified-solutions-architect-associate/
 - AWS Documentation, https://aws.amazon.com/documentation/ (key reference)
+- Sample Code & Libraries, https://aws.amazon.com/code/Amazon-EC2/
+- Articles and Tutorials, https://aws.amazon.com/articles/Amazon-EC2/
 - White papers (supplemental)		
 	- Best practices white paper, https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf
 	- Building websites whitepaper, https://d0.awsstatic.com/whitepapers/Storage/Building%20Static%20Websites%20on%20AWS.pdf
