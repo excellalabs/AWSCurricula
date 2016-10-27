@@ -1,10 +1,10 @@
 ## AWS Certified Solutions Architect & Developer Overview
 
-- 2 levels, *Associate* - that means you have the needed knowledge, and some experience; or *Professional* - you are pretty expert
-- The certs are one of the most highly regarded in the software industry, which for one thing means they are at least somewhat challenging. They say you need a year of experience and various knowledge prerequisites (see the blueprints in the links I provide).
 - It is more common to get the Solution Archtitect license first since it covers a broad spectrum of AWS, however if you are experienced in developing with AWS if may be fine. 
     - *Solution Architect* - strong knowledge of *all* AWS services in order to pick what's best for the solution at hand. 
     - *Developer* - ability to use specific services in depth to achieve an end product. Broad knowledge of as many services is not there but knowledge in the core services to build applications is deeper.
+- 2 levels, *Associate* - that means you have the needed knowledge, and some experience; or *Professional* - you are pretty expert
+- The certs are one of the most highly regarded in the software industry, which for one thing means they are at least somewhat challenging. They say you need a year of experience and various knowledge prerequisites (see the blueprints in the links I provide).
 
 ## Certification Curriculum 
 
