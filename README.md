@@ -17,7 +17,7 @@ Resources:
 - Developer
 	- Blueprint, http://awstrainingandcertification.s3.amazonaws.com/production/AWS_certified_developer_associate_blueprint.pdf
 	- Developer Learning Path (pretty comprehensive), https://aws.amazon.com/training/path-developing/
-	- Getting Started Online Training (Pluralsight), https://app.pluralsight.com/library/courses/aws-developer-getting-started- ble-of-contents
+	- Getting Started Online Training (Pluralsight), https://app.pluralsight.com/library/courses/implementing-restful-aspdotnet-web-api/table-of-contents
 	- Official training (1): 
 		- https://www.globalknowledge.com/us-en/course/90734/architecting-on-aws-1/?utm_source=partner&utm_medium=referral&utm_campaign=awsweb-c1395
 		- https://awstraining.csod.com/LMS/LoDetails/DetailsLo.aspx?loid=3f32f0ab-2027-49f4-9e67-efc29d3eef74#t=1
