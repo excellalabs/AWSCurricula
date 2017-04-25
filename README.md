@@ -14,9 +14,9 @@
 
 	I recommend starting by reviewing the blueprint, then the Learning Path, then decide what training resources you want to consume first. That could be the starter videos and labs, or if you have enough experience, directly to the offiical training and ultimately the exam. 
 
-1. Build an AWS Developer curriculum from the below resources. 
+1. Build a curriculum from the below resources. 
 
-*Example*:
+*Example - Developer curriculum*:
 - Sign up for one of the 3 day training classes.
 - Get going with a sample app in AWS to get experience with the services the certification requires.
 - Pluralsight class - [AWS Developer: Getting Started](https://app.pluralsight.com/library/courses/aws-developer-getting-started/table-of-contents)
