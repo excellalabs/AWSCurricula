@@ -14,36 +14,39 @@
 
 	I recommend starting by reviewing the blueprint, then the Learning Path, then decide what training resources you want to consume first. That could be the starter videos and labs, or if you have enough experience, directly to the offiical training and ultimately the exam. 
 
-1. Build a curriculum from the below resources. 
+1. Build an AWS Developer curriculum from the below resources. 
 
-*Example - Developer curriculum*:
+*Example*:
 - Sign up for one of the 3 day training classes.
 - Get going with a sample app in AWS to get experience with the services the certification requires.
 - Pluralsight class - [AWS Developer: Getting Started](https://app.pluralsight.com/library/courses/aws-developer-getting-started/table-of-contents)
-- Take practice tests, https://www.udemy.com/aws-certified-developer-associate-2017-practice-tests/
+- [Take practice tests](https://www.udemy.com/aws-certified-developer-associate-2017-practice-tests/)
 
 ## Resources
  
-- Starter Instructional Videos and Labs, https://aws.amazon.com/training/intro_series/
+- [Starter Instructional Videos and Labs](https://aws.amazon.com/training/intro_series/)
 
 ### Developer
 
-- Blueprint,http://awstrainingandcertification.s3.amazonaws.com/production/AWS_certified_developer_associate_blueprint.pdf
-- Developer Learning Path (pretty comprehensive), https://aws.amazon.com/training/path-developing/
-- Developer Getting Started Online Training (4 h), https://app.pluralsight.com/library/courses/implementing-restful-aspdotnet-web-api/table-of-contents
+- [Blueprint](http://awstrainingandcertification.s3.amazonaws.com/production/AWS_certified_developer_associate_blueprint.pdf)
+- [Developer Learning Path](https://aws.amazon.com/training/path-developing/) (pretty comprehensive)
+- [Developer Getting Started Online Training](https://app.pluralsight.com/library/courses/implementing-restful-aspdotnet-web-api/table-of-contents) (4h)
 - Sign up for official training for certification (1 class):
-  - [AWS Training Page](https://aws.amazon.com/training/)
-	- [Global Knowledge](https://www.globalknowledge.com/us-en/course/90734/architecting-on-aws-1/?utm_source=partner&utm_medium=referral&utm_campaign=awsweb-c1395)
-  - [CSOD](https://awstraining.csod.com/LMS/LoDetails/DetailsLo.aspx?loid=3f32f0ab-2027-49f4-9e67-efc29d3eef74#t=1)
+	- [AWS Training Page](https://aws.amazon.com/training/)
+		- [Global Knowledge](https://www.globalknowledge.com/us-en/course/90734/architecting-on-aws-1/?utm_source=partner&utm_medium=referral&utm_campaign=awsweb-c1395)
+		- [CSOD](https://awstraining.csod.com/LMS/LoDetails/DetailsLo.aspx?loid=3f32f0ab-2027-49f4-9e67-efc29d3eef74#t=1)
 - 1 day workshops and other classes (virtual too) are available
 
 ### Architect
 
 - Certified Architect Overview (w/blueprint, official training & additional learning resources), https://aws.amazon.com/certification/certified-solutions-architect-associate/
 - Pluralsight class, https://app.pluralsight.com/library/courses/aws-certified-solutions-architect-professional/table-of-contents
-- AWS Documentation, https://aws.amazon.com/documentation/ (key reference)
-- Sample Code & Libraries, https://aws.amazon.com/code/Amazon-EC2/
-- Articles and Tutorials, https://aws.amazon.com/articles/Amazon-EC2/
+
+### General resources 
+
+- [AWS Documentation](https://aws.amazon.com/documentation/) (key reference)
+- [Sample Code & Libraries](https://aws.amazon.com/code/Amazon-EC2/)
+- [Articles and Tutorials](https://aws.amazon.com/articles/Amazon-EC2/)
 - White papers (supplemental):
 	- Best practices white paper, https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf
 	- Building websites whitepaper, https://d0.awsstatic.com/whitepapers/Storage/Building%20Static%20Websites%20on%20AWS.pdf
